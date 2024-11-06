@@ -10,7 +10,7 @@ Meu nome é **Ana Caroline de Oliveira Farias**. Sou uma desenvolvedora apaixona
 
 Este repositório contém [Estudos e pequenos desenvolvimentos que fiz e estou fazendo em SQL]. A ideia principal é [Mostrar minhas habilidades nesta linguagem, mostrar que estou indo atrás do conhecimento e aprimorando ela]. 
 
-<img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="SQL Server" width="95" height="65">
+<img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="SQL Server" width="100" height="85">
 
 ## Tecnologias Utilizadas
 
