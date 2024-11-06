@@ -14,6 +14,8 @@ Este repositório contém [Estudos e pequenos desenvolvimentos que fiz e estou f
 
 ## Tecnologias Utilizadas
 
-- **Linguagem:** SQL
+- **Linguagem:** SQL Server
+
+## Ferramentas Utilizadas
 - **DBeaver**
 
