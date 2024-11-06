@@ -13,7 +13,7 @@ Este repositório contém [Estudos e pequenos desenvolvimentos que fiz e estou f
 <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="SQL Server" width="100" height="85">
 
 ## Tecnologias Utilizadas
-- **Linguagem:** SQL Server <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="SQL Server" width="95" height="65">
+- **Linguagem:** SQL Server
 
 ## Ferramentas Utilizadas
 - **DBeaver** 
